@@ -1,4 +1,4 @@
-from flask import Flask, url_for, request, jsonify
+from flask import Flask, url_for, request, jsonify, render_template
 import joblib
 
 app = Flask(__name__)
@@ -6,10 +6,14 @@ app = Flask(__name__)
 #route index
 @app.route("/")
 def index():
-     return "Predict Wine - Hello World!"
+     return render_template("index.html")
  
-@app.route("/predict", methods=["POST"])
-def spam():
+@app.route('/prediction.', methods=('GET', 'POST'))
+def  precition():
+    return render_template('prediction.html', prediction)
+
+@app.route("/predict", methods=["POST", "GET"])
+def predict():
         # Check if request has a JSON content
     if request.json:
         # Get the JSON as dictionnary
@@ -24,7 +28,7 @@ def spam():
             # prediction return note of quality of wint
             prediction = str(prediction[0])
             return jsonify({"predict": prediction}), 200
-    return jsonify({"msg": "Error: not a JSON or no email key in your request"})
+    return jsonify({"msg": "Error: not a JSON or no input key in your request"})
 
  
 if __name__ == "__main__":
