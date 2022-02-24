@@ -1,0 +1,67 @@
+{% extends "layout.html" %}
+{% block content %}
+  <div>
+    <h2>Prediction of the quality of wine</h2>
+    <div>
+       <div>
+         <p>Objectif : 
+           <ol><li><code>réaliser un modéle</code> de machine learning</li>
+              <li>mettre ce modèle en production avec Flash</li>
+          </ol>
+        </p>
+         <p>Le jeu de données traite des différents types de vin rouge portugais "Vinho Verde".
+           À partir des composants physico-chimiques (inputs) nous allons prédire la qualité du vin.</p>
+       </div>
+
+       <div> 
+         <p>Retrouver le dataset pour plus d'explications</p>
+         <ul>
+           <li><a href="https://archive.ics.uci.edu/ml/datasets/wine+quality" target="_blank"w>Wine Quality Data Set</a></li>
+         </ul>
+       </div>
+       <div>
+         <p>Les 11 composants chimiques permettant la prediction :</p>
+         <ul><li>fixed acidity </li>
+          <li>volatile acidity </li>
+          <li>citric acid</li>
+          <li>residual sugar </li>
+          <li>chlorides </li>
+          <li>free sulfur dioxide</li>
+          <li>total sulfur dioxide</li>
+          <li>density </li>
+          <li>pH</li>
+          <li>sulphates </li>
+          <li>alcohol </li>
+        </ul>
+       </div>
+
+    <h2>API documentation</h2>
+    <p>API documentation for the prediction of the quality of wine.</p>
+    
+    <h3>Endpoint</h3>
+      <p>L'api requête sur le endpoint</p>
+      <div>
+      <p>La méthode POST avec des données fournit en Json , retoune la prédiction du modèle de machine learning</p>
+      <p>Il faut envoyer une requête POST sur le endpoint</p>
+      <p>requests.post(/predict, json=input_simple)</p>
+      </div>
+      <div>
+        <p>Il est possible d'envoyer la requête en Python avec la librairie requests.</p>
+        <p>import requests</p>
+      <p>json={"input": [7.0, 0.27, 0.36, 20.7, 0.045, 45.0, 170.0, 1.001, 3.0, 0.45, 8.8]}</p>
+      <p>print(response.json())</p>
+      </div>
+      <div>Une requête curl donne équalement la prédiction</div>
+      <p>$ curl -i -H "Content-Type: application/json" -X POST -d '{"input": [7.0, 0.27, 0.36, 20.7, 0.045, 45.0, 170.0, 1.001, 3.0, 0.45, 8.8]}' https://app-win-mbe.herokuapp.com/predict</p>
+      
+      <h3>La réponse</h3>
+        <p>La réponse donnera par exemple:</p>
+        <p>{
+          "prediction":[6,6]
+        }</p>
+        <p>ou en cas d'erreur</p>
+        <p> {
+          "msg": "Error: not a JSON or no input key in your request"
+        }</p>
+  </div>
+{% endblock %}
