@@ -1,0 +1,70 @@
+,name_hotel,price,adress_hotel,appreciation_hotel,review_hotel,nb_exp_vecu_hotel,indic,ville,longitude,latitude,temperature,tx_humidite
+0,Hotel Elysée Gare de Lyon,"Choisissez votre langue.
+Votre langue actuelle est celle-ci : Français.","12e arr., Paris",Très bien,8.2,832 expériences vécues,12e arr.,Paris,2.3488,48.8534,7.610000000000014,55
+1,Select Hotel,Personnes max.: 2,"5e arr., Paris",Fabuleux,9.0,1 527 expériences vécues,5e arr.,Paris,2.3488,48.8534,7.610000000000014,55
+2,Pullman Paris Montparnasse,"Tarif
+€ 600","14e arr., Paris",Très bien,8.0,269 expériences vécues,14e arr.,Paris,2.3488,48.8534,7.610000000000014,55
+3,Hôtel Paris Louvre Opéra,Personnes max.: 2,"1er arr., Paris",Très bien,8.3,350 expériences vécues,1er arr.,Paris,2.3488,48.8534,7.610000000000014,55
+4,Elysées Ceramic,"Tarif
+€ 595","8e arr., Paris",Exceptionnel,9.5,380 expériences vécues,8e arr.,Paris,2.3488,48.8534,7.610000000000014,55
+5,Hotel de L'Esperance,Personnes max.: 2,"5e arr., Paris",Bien,7.4,694 expériences vécues,5e arr.,Paris,2.3488,48.8534,7.610000000000014,55
+6,Hôtel Aiglon,"Tarif
+€ 292","14e arr., Paris",Bien,7.0,520 expériences vécues,14e arr.,Paris,2.3488,48.8534,7.610000000000014,55
+7,Room Mate Alain - Champs-Elysées,"Tarif
+€ 353","16e arr., Paris",Fabuleux,9.3,275 expériences vécues,16e arr.,Paris,2.3488,48.8534,7.610000000000014,55
+8,Victoria Palace Hotel,"Tarif
+€ 813","6e arr., Paris",Superbe,8.6,85 expériences vécues,6e arr.,Paris,2.3488,48.8534,7.610000000000014,55
+9,Le Pigalle Hotel,Personnes max.: 2,"9e arr., Paris",Fabuleux,9.4,435 expériences vécues,9e arr.,Paris,2.3488,48.8534,7.610000000000014,55
+10,Le Pigalle Hotel,"Tarif
+€ 323","9e arr., Paris",Fabuleux,9.4,435 expériences vécues,9e arr.,Paris,2.3488,48.8534,7.610000000000014,55
+11,Hôtel Vacances Bleues Provinces Opera,Personnes max.: 2,"10e arr., Paris",Fabuleux,9.3,39 expériences vécues,10e arr.,Paris,2.3488,48.8534,7.610000000000014,55
+12,St Christopher's Inn Paris - Gare du Nord,Personnes max.: 2,"10e arr., Paris",Bien,7.5,1 762 expériences vécues,10e arr.,Paris,2.3488,48.8534,7.610000000000014,55
+13,ibis Paris Gare De L'Est TGV,"Tarif
+€ 351","10e arr., Paris",Bien,7.5,1 410 expériences vécues,10e arr.,Paris,2.3488,48.8534,7.610000000000014,55
+14,Les Piaules - Belleville,"Tarif
+€ 593","11e arr., Paris",Bien,7.3,1 635 expériences vécues,11e arr.,Paris,2.3488,48.8534,7.610000000000014,55
+15,ibis Styles Paris Bercy,Obtenez de l'aide concernant votre réservation,"12e arr., Paris",Très bien,8.5,261 expériences vécues,12e arr.,Paris,2.3488,48.8534,7.610000000000014,55
+16,Hotel Les Terres Blanches,"Tarif
+€ 759",Chatou,Superbe,8.8,197 expériences vécues,Chatou,Chatou,2.1586,48.8898,7.640000000000043,54
+17,Cerise Chatou,Personnes max.: 2,Chatou,Très bien,8.4,558 expériences vécues,Chatou,Chatou,2.1586,48.8898,7.640000000000043,54
+18,Hôtel Roi Soleil Mulhouse-Kingersheim,"Tarif
+€ 400",Kingersheim,Très bien,8.1,580 expériences vécues,Kingersheim,Kingersheim,7.3349,47.7926,6.400000000000034,60
+19,Comfort Hotel Etampes,Vous recevrez un crédit de € 29 valable pendant 1 an. Il sera ajouté à votre Portefeuille 14 jours après votre départ de l'établissement.,Étampes,Note,6.7,862 expériences vécues,Étampes,Étampes,2.165,48.4367,7.53000000000003,58
+20,Le Puy Carmin - Chambre d'hôtes avec jacuzzi,"Tarif
+€ 409",Bazoges-en-Paillers,Très bien,8.1,129 expériences vécues,Bazoges-en-Paillers,Bazoges-en-Paillers,-1.1328,46.9081,12.010000000000048,74
+21,Le Puy Carmin - Chambre d'hôtes avec jacuzzi,"Tarif
+€ 445",Bazoges-en-Paillers,Très bien,8.1,129 expériences vécues,Bazoges-en-Paillers,Bazoges-en-Paillers,-1.1328,46.9081,12.010000000000048,74
+22,Hotel Dorele,"Tarif
+€ 515",Montargis,Superbe,8.8,697 expériences vécues,Montargis,Montargis,2.75,47.8333,8.230000000000018,41
+23,Hotel De France,Personnes max.: 2,Montargis,Très bien,8.3,522 expériences vécues,Montargis,Montargis,2.75,47.8333,8.230000000000018,41
+24,Hotel De France,Personnes max.: 2,Montargis,Très bien,8.3,522 expériences vécues,Montargis,Montargis,2.75,47.8333,8.230000000000018,41
+25,La Maison du Parc,"Tarif
+€ 334",Saint-Raphaël,Très bien,8.0,223 expériences vécues,Saint-Raphaël,Saint-Raphaël,-72.2,19.4333,18.470000000000027,94
+26,Moxy Lille City,"Tarif
+€ 338","Centre de Lille, Lille",Fabuleux,9.4,132 expériences vécues,Centre de Lille,Lille,3.0586,50.633,7.860000000000014,50
+27,"Holiday Inn Express Lille Centre, an IHG Hotel","Tarif
+€ 800","Centre de Lille, Lille",Très bien,8.5,113 expériences vécues,Centre de Lille,Lille,3.0586,50.633,7.860000000000014,50
+28,ibis Styles Lille Centre Gare Beffroi,"Tarif
+€ 279","Centre de Lille, Lille",Très bien,8.3,518 expériences vécues,Centre de Lille,Lille,3.0586,50.633,7.860000000000014,50
+29,Atipik Hôtel Alexandra,Personnes max.: 2,"Centre-ville d'Annecy, Annecy",Superbe,8.7,381 expériences vécues,Centre-ville d'Annecy,Annecy,6.1167,45.9,6.660000000000025,49
+30,Best Western Hotel International,"Tarif
+€ 435","Centre-ville d'Annecy, Annecy",Bien,7.1,133 expériences vécues,Centre-ville d'Annecy,Annecy,6.1167,45.9,6.660000000000025,49
+31,Lagrange Apart'Hotel l’Escale Marine,Personnes max.: 2,"Centre-ville de La Rochelle, La Rochelle",Très bien,8.3,788 expériences vécues,Centre-ville de La Rochelle,La Rochelle,-1.15,46.1667,10.53000000000003,100
+32,Aux Augustins,Personnes max.: 4,"Centre-ville d'Avignon, Avignon",Bien,7.4,2 411 expériences vécues,Centre-ville d'Avignon,Avignon,4.8333,44.0833,11.930000000000007,57
+33,Autour Du Petit Paradis,"Tarif
+€ 1 112","Centre-ville d'Avignon, Avignon",Superbe,8.7,122 expériences vécues,Centre-ville d'Avignon,Avignon,4.8333,44.0833,11.930000000000007,57
+34,Aux Augustins,Personnes max.: 3,"Centre-ville d'Avignon, Avignon",Bien,7.4,2 411 expériences vécues,Centre-ville d'Avignon,Avignon,4.8333,44.0833,11.930000000000007,57
+35,Toyoko INN Marseille Saint Charles,Personnes max.: 2,"Saint-Charles, Marseille",Très bien,8.4,293 expériences vécues,Saint-Charles,Marseille,5.5,43.3333,10.560000000000002,57
+36,The People Hostel - Marseille,Personnes max.: 2,"Vieux Port - La Canebière, Marseille",Superbe,8.9,784 expériences vécues,Vieux Port - La Canebière,Marseille,5.5,43.3333,10.560000000000002,57
+37,"Holiday Inn Express Marseille Saint Charles, an IHG Hotel","Tarif
+€ 278","Saint-Charles, Marseille",Très bien,8.5,15 expériences vécues,Saint-Charles,Marseille,5.5,43.3333,10.560000000000002,57
+38,Comfort Hotel Amiens Nord,"Tarif
+€ 401",Amiens,Bien,7.6,878 expériences vécues,Amiens,Amiens,2.3,49.9,8.340000000000032,47
+39,"HÔTEL B&B Ville Active, parking sécurisé gratuit",Vous recevrez un crédit de € 23 valable pendant 1 an. Il sera ajouté à votre Portefeuille 14 jours après votre départ de l'établissement.,Nîmes,Fabuleux,9.1,251 expériences vécues,Nîmes,Nîmes,4.35,43.8333,12.410000000000025,58
+40,Hôtel des Halles,"Tarif
+€ 500","Centre-ville de Dijon, Dijon",Très bien,8.5,554 expériences vécues,Centre-ville de Dijon,Dijon,5.0167,47.3167,8.390000000000043,46
+41,Comfort Hotel Strasbourg - Montagne Verte,Personnes max.: 2,Strasbourg,Fabuleux,9.0,188 expériences vécues,Strasbourg,Strasbourg,7.743,48.5834,7.090000000000032,45
+42,Best Western Kemaris,"Choisissez votre langue.
+Votre langue actuelle est celle-ci : Français.",Biarritz,Superbe,8.9,13 expériences vécues,Biarritz,Biarritz,-1.5556,43.4801,15.410000000000025,63
+43,Le Clos bartholdi,"Tarif
+€ 347","Centre-ville de Colmar, Colmar",Bien,7.4,2 903 expériences vécues,Centre-ville de Colmar,Colmar,7.3667,48.0833,6.110000000000014,52
